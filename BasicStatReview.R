@@ -1,6 +1,6 @@
 
-# Review of Basic Statistics
-
+# Basic Statistics
+j dickens
 library(tidyverse)
 #install.packages("Sleuth3")
 library(Sleuth3)
