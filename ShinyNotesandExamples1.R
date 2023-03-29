@@ -1,7 +1,7 @@
 install.packages("shiny")
 library(shiny)
 
-# Structure of a Shiny App
+# Structure and format of a Shiny App
 
 # Shiny apps are contained in a single script called app.R.
 # The script app.R lives in a directory (for example, 
